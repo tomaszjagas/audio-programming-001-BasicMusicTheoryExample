@@ -1,7 +1,6 @@
 /********************************************
 Description: Simple Music Theory Example
 with basic C programming concepts implemented
-Author: TJ
 *********************************************/
 
 #include <stdio.h>
